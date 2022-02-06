@@ -13,7 +13,7 @@ GameObject:
   - component: {fileID: 2897930970044388191}
   m_Layer: 0
   m_Name: ColumnSprite (1)
-  m_TagString: Untagged
+  m_TagString: column
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -123,7 +123,7 @@ GameObject:
   - component: {fileID: 2897930971051178100}
   m_Layer: 0
   m_Name: Columns
-  m_TagString: Untagged
+  m_TagString: column
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -228,7 +228,7 @@ GameObject:
   - component: {fileID: 2897930971318895836}
   m_Layer: 0
   m_Name: ColumnSprite
-  m_TagString: Untagged
+  m_TagString: column
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
